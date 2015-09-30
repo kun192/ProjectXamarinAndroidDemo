@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="CallWebSericeDemo\CallWebSericeDemo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (KitKat)" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="CallWebSericeDemo\MainActivity.cs" Line="31" Column="54" />
+      <File FileName="CallWebSericeDemo\Weather.cs" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CallWebSericeDemo AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

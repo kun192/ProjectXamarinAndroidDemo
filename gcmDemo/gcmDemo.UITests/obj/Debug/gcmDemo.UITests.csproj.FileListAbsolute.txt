@@ -1,0 +1,9 @@
+C:\Users\PC-NO1\Documents\Projects\gcmDemo\gcmDemo.UITests\bin\Debug\gcmDemo.UITests.dll
+C:\Users\PC-NO1\Documents\Projects\gcmDemo\gcmDemo.UITests\bin\Debug\gcmDemo.UITests.pdb
+C:\Users\PC-NO1\Documents\Projects\gcmDemo\gcmDemo.UITests\bin\Debug\nunit.framework.dll
+C:\Users\PC-NO1\Documents\Projects\gcmDemo\gcmDemo.UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\PC-NO1\Documents\Projects\gcmDemo\gcmDemo.UITests\bin\Debug\nunit.framework.xml
+C:\Users\PC-NO1\Documents\Projects\gcmDemo\gcmDemo.UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\PC-NO1\Documents\Projects\gcmDemo\gcmDemo.UITests\obj\Debug\gcmDemo.UITests.csprojResolveAssemblyReference.cache
+C:\Users\PC-NO1\Documents\Projects\gcmDemo\gcmDemo.UITests\obj\Debug\gcmDemo.UITests.dll
+C:\Users\PC-NO1\Documents\Projects\gcmDemo\gcmDemo.UITests\obj\Debug\gcmDemo.UITests.pdb

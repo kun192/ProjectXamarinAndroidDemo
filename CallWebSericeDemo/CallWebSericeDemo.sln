@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallWebSericeDemo", "CallWebSericeDemo\CallWebSericeDemo.csproj", "{50AA2E8C-161B-4D1C-8711-AF1F86E3579F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallWebSericeDemo.UITests", "CallWebSericeDemo.UITests\CallWebSericeDemo.UITests.csproj", "{CBBA6771-C17E-4818-BF5E-072CB2F7B98F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50AA2E8C-161B-4D1C-8711-AF1F86E3579F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50AA2E8C-161B-4D1C-8711-AF1F86E3579F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50AA2E8C-161B-4D1C-8711-AF1F86E3579F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50AA2E8C-161B-4D1C-8711-AF1F86E3579F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBBA6771-C17E-4818-BF5E-072CB2F7B98F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBA6771-C17E-4818-BF5E-072CB2F7B98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBA6771-C17E-4818-BF5E-072CB2F7B98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBA6771-C17E-4818-BF5E-072CB2F7B98F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

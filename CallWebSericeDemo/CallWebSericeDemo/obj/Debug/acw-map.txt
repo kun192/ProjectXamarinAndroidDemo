@@ -1,0 +1,4 @@
+CallWebSericeDemo.MainActivity, CallWebSericeDemo;md5fed9679eae842015001c01fe687354f1.MainActivity
+CallWebSericeDemo.MainActivity, CallWebSericeDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fed9679eae842015001c01fe687354f1.MainActivity
+CallWebSericeDemo.MainActivity;md5fed9679eae842015001c01fe687354f1.MainActivity
+callwebsericedemo.MainActivity;md5fed9679eae842015001c01fe687354f1.MainActivity

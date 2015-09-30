@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gcmDemo", "gcmDemo\gcmDemo.csproj", "{4967F4B8-5237-4753-9C78-A3748D3C17D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gcmDemo.UITests", "gcmDemo.UITests\gcmDemo.UITests.csproj", "{6B9F687A-A01D-4009-A462-36232E3C9ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4967F4B8-5237-4753-9C78-A3748D3C17D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4967F4B8-5237-4753-9C78-A3748D3C17D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4967F4B8-5237-4753-9C78-A3748D3C17D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4967F4B8-5237-4753-9C78-A3748D3C17D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B9F687A-A01D-4009-A462-36232E3C9ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9F687A-A01D-4009-A462-36232E3C9ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9F687A-A01D-4009-A462-36232E3C9ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9F687A-A01D-4009-A462-36232E3C9ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

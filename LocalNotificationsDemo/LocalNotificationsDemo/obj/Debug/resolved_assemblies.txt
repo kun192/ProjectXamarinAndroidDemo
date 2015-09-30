@@ -1,0 +1,7 @@
+C:\Users\PC-NO1\Documents\Projects\LocalNotificationsDemo\LocalNotificationsDemo\obj\Debug\assemblies\LocalNotificationsDemo.dll
+C:\Users\PC-NO1\Documents\Projects\LocalNotificationsDemo\LocalNotificationsDemo\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\PC-NO1\Documents\Projects\LocalNotificationsDemo\LocalNotificationsDemo\obj\Debug\assemblies\mscorlib.dll
+C:\Users\PC-NO1\Documents\Projects\LocalNotificationsDemo\LocalNotificationsDemo\obj\Debug\assemblies\System.Core.dll
+C:\Users\PC-NO1\Documents\Projects\LocalNotificationsDemo\LocalNotificationsDemo\obj\Debug\assemblies\System.dll
+C:\Users\PC-NO1\Documents\Projects\LocalNotificationsDemo\LocalNotificationsDemo\obj\Debug\assemblies\System.Xml.dll
+C:\Users\PC-NO1\Documents\Projects\LocalNotificationsDemo\LocalNotificationsDemo\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll

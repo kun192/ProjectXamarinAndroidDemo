@@ -1,0 +1,10 @@
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo.UITests\bin\Debug\CallWebSericeDemo.UITests.dll
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo.UITests\bin\Debug\CallWebSericeDemo.UITests.pdb
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo.UITests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo.UITests\bin\Debug\nunit.framework.dll
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo.UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo.UITests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo.UITests\bin\Debug\nunit.framework.xml
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo.UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo.UITests\obj\Debug\CallWebSericeDemo.UITests.dll
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo.UITests\obj\Debug\CallWebSericeDemo.UITests.pdb

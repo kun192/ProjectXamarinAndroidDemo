@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.localnotificationsdemo">
+  <uses-sdk android:minSdkVersion="16" />
+  <application android:label="LocalNotificationsDemo" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:icon="@drawable/icon" android:label="LocalNotificationsDemo" android:name="md5bc0985804c376f0de228e24c99ae238b.MainActivity" />
+    <activity android:label="SecondActivity" android:name="md5bc0985804c376f0de228e24c99ae238b.SecondActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.localnotificationsdemo.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.companyname.localnotificationsdemo" />
+      </intent-filter>
+    </receiver>
+    <activity android:icon="@drawable/icon" android:label="LocalNotificationsDemo" android:name="com.companyname.localnotificationsdemo.TrialSplashScreen" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+  </application>
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+</manifest>

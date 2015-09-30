@@ -1,0 +1,8 @@
+SqlliteDemo.MainActivity, SqlliteDemo;md50d3a84c2565898f5f627c3e7826aa841.MainActivity
+SqlliteDemo.MainActivity, SqlliteDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50d3a84c2565898f5f627c3e7826aa841.MainActivity
+SqlliteDemo.MainActivity;md50d3a84c2565898f5f627c3e7826aa841.MainActivity
+sqllitedemo.MainActivity;md50d3a84c2565898f5f627c3e7826aa841.MainActivity
+SqlliteDemo.ViewListActivity, SqlliteDemo;md50d3a84c2565898f5f627c3e7826aa841.ViewListActivity
+SqlliteDemo.ViewListActivity, SqlliteDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50d3a84c2565898f5f627c3e7826aa841.ViewListActivity
+SqlliteDemo.ViewListActivity;md50d3a84c2565898f5f627c3e7826aa841.ViewListActivity
+sqllitedemo.ViewListActivity;md50d3a84c2565898f5f627c3e7826aa841.ViewListActivity

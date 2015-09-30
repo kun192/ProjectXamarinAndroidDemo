@@ -1,0 +1,9 @@
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo\obj\Debug\assemblies\CallWebSericeDemo.dll
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo\obj\Debug\assemblies\mscorlib.dll
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo\obj\Debug\assemblies\Newtonsoft.Json.dll
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo\obj\Debug\assemblies\System.Core.dll
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo\obj\Debug\assemblies\System.dll
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo\obj\Debug\assemblies\System.Json.dll
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo\obj\Debug\assemblies\System.Xml.dll
+C:\Users\PC-NO1\Documents\Projects\CallWebSericeDemo\CallWebSericeDemo\obj\Debug\assemblies\System.Runtime.Serialization.dll

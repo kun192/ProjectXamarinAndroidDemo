@@ -1,0 +1,7 @@
+C:\Users\PC-NO1\Documents\Projects\SqlliteDemo\SqlliteDemo\obj\Debug\assemblies\SqlliteDemo.dll
+C:\Users\PC-NO1\Documents\Projects\SqlliteDemo\SqlliteDemo\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\PC-NO1\Documents\Projects\SqlliteDemo\SqlliteDemo\obj\Debug\assemblies\mscorlib.dll
+C:\Users\PC-NO1\Documents\Projects\SqlliteDemo\SqlliteDemo\obj\Debug\assemblies\SQLite.dll
+C:\Users\PC-NO1\Documents\Projects\SqlliteDemo\SqlliteDemo\obj\Debug\assemblies\System.Core.dll
+C:\Users\PC-NO1\Documents\Projects\SqlliteDemo\SqlliteDemo\obj\Debug\assemblies\System.dll
+C:\Users\PC-NO1\Documents\Projects\SqlliteDemo\SqlliteDemo\obj\Debug\assemblies\System.Xml.dll

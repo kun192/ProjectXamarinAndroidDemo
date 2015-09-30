@@ -1,0 +1,9 @@
+C:\Users\PC-NO1\Documents\Projects\gcmDemo\gcmDemo\obj\Debug\assemblies\gcmDemo.dll
+C:\Users\PC-NO1\Documents\Projects\gcmDemo\gcmDemo\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\PC-NO1\Documents\Projects\gcmDemo\gcmDemo\obj\Debug\assemblies\mscorlib.dll
+C:\Users\PC-NO1\Documents\Projects\gcmDemo\gcmDemo\obj\Debug\assemblies\System.Core.dll
+C:\Users\PC-NO1\Documents\Projects\gcmDemo\gcmDemo\obj\Debug\assemblies\System.dll
+C:\Users\PC-NO1\Documents\Projects\gcmDemo\gcmDemo\obj\Debug\assemblies\System.Xml.dll
+C:\Users\PC-NO1\Documents\Projects\gcmDemo\gcmDemo\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\PC-NO1\Documents\Projects\gcmDemo\gcmDemo\obj\Debug\assemblies\Xamarin.GooglePlayServices.Base.dll
+C:\Users\PC-NO1\Documents\Projects\gcmDemo\gcmDemo\obj\Debug\assemblies\Xamarin.GooglePlayServices.Gcm.dll
